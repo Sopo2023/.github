@@ -1,14 +1,15 @@
 # 안녕하세요! SOPO 개발팀 나즌기대치 입니다.  🙋🏻‍♂️
 <img src="https://ifh.cc/g/LHmJMc.jpg" alt="이미지 설명">
+<br><br/>
 
 # OUR PROJECT! 
-<br/>
+<br><br/>
 ## 🕰️ 2023.08.22. ~ 2023.11.08.
-<br/>
+<br><br/>
 ## 🧑‍💻 MEMBER
 ### - FRONT 
 ### - BACK 
-<br/>
+<br><br/>
 ## 💻 WHAT WE MADE
 ### BACKGROUND 
 **대구소프트웨어마이스터고 재학생**을 상대로 한 결과, **정보를 알기 어렵다, 적응이 힘들다, 대회에 함께 나갈 사람을 구하기 어렵다**라는 높은 응답률을 보였습니다.
