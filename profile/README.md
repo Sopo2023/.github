@@ -9,13 +9,13 @@
 ## 🧑‍💻 MEMBER
 ### - FRONT 
 - [이해준](https://github.com/ftery0)
-- 배채희
-- 전우진
-- 박규민
+- [배채희](https://github.com/je355)
+- [전우진](https://github.com/greenfrog616)
+- [박규민](https://github.com/kyumin7487)
 
 ### - BACK 
-- 김가영
-- 김호준
+- [김가영](https://github.com/GayeongKimm)
+- [김호준](https://github.com/alexipharmical)
 
 
 <br><br/>
