@@ -8,7 +8,7 @@
 <br><br/>
 ## 🧑‍💻 MEMBER
 ### - FRONT 
-- [이해준] (https://github.com/ftery0)
+- [이해준](https://github.com/ftery0)
 - 배채희
 - 전우진
 - 박규민
