@@ -8,7 +8,16 @@
 <br><br/>
 ## 🧑‍💻 MEMBER
 ### - FRONT 
+- 이해준
+- 배채희
+- 전우진
+- 박규민
+
 ### - BACK 
+- 김가영
+- 김호준
+
+
 <br><br/>
 ## 💻 WHAT WE MADE
 ### BACKGROUND 
