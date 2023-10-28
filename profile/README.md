@@ -4,7 +4,6 @@
 
 # OUR PROJECT! 
 ## 🕰️ 2023.08.22. ~ 2023.11.08.
-<br><br/>
 ## 🧑‍💻 MEMBER
 ### - FRONT 
 - [이해준](https://github.com/ftery0)
@@ -17,7 +16,6 @@
 - [김호준](https://github.com/alexipharmical)
 
 
-<br><br/>
 ## 💻 WHAT WE MADE
 ### BACKGROUND 
 **대구소프트웨어마이스터고 재학생**을 상대로 한 결과, **정보를 알기 어렵다, 적응이 힘들다, 대회에 함께 나갈 사람을 구하기 어렵다**라는 높은 응답률을 보였습니다.
