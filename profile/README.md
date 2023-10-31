@@ -33,7 +33,6 @@
 - 나만의 **포트폴리오를 제작하고, 공유**할 수 있습니다.
 #### 대회
 - 원하는 분야의 학생과 대회에 나가고 싶을 때, 쉽게 구할 수 있습니다.
-
-### <span style="color:red"> test </span>
+<span style="color:red"> test </span>
 ### 🛠️ STACK
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
