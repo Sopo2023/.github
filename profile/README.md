@@ -5,7 +5,7 @@
 # OUR PROJECT! 
 ## 🕰️ 2023.08.22. ~ 2023.11.08.
 ## 🧑‍💻 MEMBER
-### FRONT 
+### 🌐 FRONT 
 - [이해준](https://github.com/ftery0)
 - [배채희](https://github.com/je355)
 - [전우진](https://github.com/greenfrog616)
