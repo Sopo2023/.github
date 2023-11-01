@@ -14,6 +14,10 @@
 ### BACK 
 - [김가영](https://github.com/GayeongKimm)
 - [김호준](https://github.com/alexipharmical)
+
+### DESIGN
+- [이해준](https://github.com/ftery0)
+- [배채희](https://github.com/je355)
 <br><br/>
 
 ## 💻 WHAT WE MADE
