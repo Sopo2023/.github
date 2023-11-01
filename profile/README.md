@@ -11,7 +11,7 @@
 - [전우진](https://github.com/greenfrog616)
 - [박규민](https://github.com/kyumin7487)
 
-### BACK 
+### 🔙 BACK 
 - [김가영](https://github.com/GayeongKimm)
 - [김호준](https://github.com/alexipharmical)
 
