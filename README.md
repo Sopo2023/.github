@@ -42,4 +42,4 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
 ## 📑 SOPO와 나즌기대치에 대해 더 알고 싶다면?
-[나즌기대치의 포트폴리오 보러 가기]([https://sparkling-sting-af7.notion.site/SOPO-600a1747126840339ac79278dd44a657?pvs=4](https://sparkling-sting-af7.notion.site/SOPO-fed0963511f649b3a2c8e18465e5ee66?pvs=4)https://sparkling-sting-af7.notion.site/SOPO-fed0963511f649b3a2c8e18465e5ee66?pvs=4)
+[나즌기대치의 포트폴리오 보러 가기](https://sparkling-sting-af7.notion.site/SOPO-fed0963511f649b3a2c8e18465e5ee66?pvs=4)
