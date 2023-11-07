@@ -1,5 +1,5 @@
 # 안녕하세요! SOPO 개발팀 나즌기대치 입니다.  🙋🏻‍♂️
-<img src='https://ifh.cc/g/y2DbfN.jpg' border='0'></a>
+<img src='https://ifh.cc/g/4NjRoD.jpg' border='0'>
 <br><br/>
 
 # OUR PROJECT! 
