@@ -7,7 +7,7 @@
 ## 🧑‍💻 MEMBER
 ### 🌐 FRONT 
 - [이해준](https://github.com/ftery0)
-- [배채희](https://github.com/je355)
+- [배채희](https://github.com/whywwhy)
 - [전우진](https://github.com/greenfrog616)
 - [박규민](https://github.com/kyumin7487)
 
